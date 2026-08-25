@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hey, I'm TheOGDev</h1>
-<h3 align="center">Network Defender | Ethical Hacker | Full Stack Web Developer | Founder of OGDev Studios</h3>
+<h1 align="center">👋 Hey, I'm ceoofu</h1>
+<h3 align="center">Ethical Hacker | Full Stack Web Developer</h3>
 
 <p align="center">
   <a href="https://guns.lol/ogdevstudios"><img src="https://komarev.com/ghpvc/?username=ceoofu&label=Profile%20Views&color=6f42c1&style=flat" alt="Profile Views" /></a>
@@ -9,16 +9,12 @@
 ---
 
 ## 🔎 Who Am I?
-I’m **Josh**, also known online as **TheOGDev** — a **Network Defender, Ethical Hacker, and Full Stack Developer** from the US.  
-
-I’m the **Founder of OGDev Studios** — a cybersecurity company with two missions:  
-- Provide **100% free, high quality InfoSec courses & training for Red Teaming, Blue Teaming, and Cybersecurity certifications**.  
-- Deliver **contract work for businesses**, including secure web development, penetration testing, and cybersecurity consulting.  
+I’m **Josh**, also known online as **ceoofu** — a **Ethical Hacker, and Full Stack Developer** from the US.  
 
 ---
 
 ## 🔭 Current Work
-- 🖥️ **[LumaOS x86 Kernel Project](https://github.com/ceoofu/LumaOS-x86-Educational-Kernel-Project)** – educational kernel project for x86 systems.*Will later be used for the OS Development Course for our site*  
+- 🖥️ **[LumaOS x86 Kernel Project](https://github.com/ceoofu/LumaOS-x86-Educational-Kernel-Project)** – educational kernel project for x86 systems.*Will later be used for the OS Development Course for my site*  
 - ⚡ **[FiveM OnyxAC](https://github.com/ceoofu/OnyxAC)** – FiveM AntiCheat.  
 - 🛡️ **[MultiTool – Advanced OSINT Cybersecurity Toolkit](https://github.com/ceoofu/MultiTool---Advanced-OSINT-Cybersecurity-Toolkit)** – a multi-purpose OSINT & cybersecurity toolkit.  
 
@@ -26,21 +22,21 @@ I’m the **Founder of OGDev Studios** — a cybersecurity company with two miss
 
 ## 🎯 Goals & Learning
 - 🌱 Currently studying for **Computer Hacking Forensic Investigator (CHFI)** certification.  
-- 🏴‍☠️ Building a **free cybersecurity education hub** under OGDev Studios.  
+- 🏴‍☠️ Building a **free cybersecurity education hub**.  
 - 💡 Looking to collaborate on **OS, kernel, and security focused projects**.  
 
 ---
 
 ## 📬 How to Reach Me
 <p align="left">
-  <a href="https://guns.lol/ogdevstudios" target="_blank">
+  <a href="https://guns.lol/ceoofu" target="_blank">
     <img src="https://img.shields.io/badge/🔗 Guns Lol-6f42c1?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@l1quidgaming" target="_blank">
     <img src="https://img.shields.io/badge/🎥 YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://discord.gg/HPe63XzDGg" target="_blank">
-    <img src="https://img.shields.io/badge/💬 Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://feds.lol/ceoofu" target="_blank">
+    <img src="https://img.shields.io/badge/🔗 Guns Lol 2-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://github.com/ceoofu" target="_blank">
     <img src="https://img.shields.io/badge/🐙 GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
