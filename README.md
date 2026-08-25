@@ -15,8 +15,6 @@ I’m **Josh**, also known online as **ceoofu** — a **Ethical Hacker, and Full
 
 ## 🔭 Current Work
 - 🖥️ **[LumaOS x86 Kernel Project](https://github.com/ceoofu/LumaOS-x86-Educational-Kernel-Project)** – educational kernel project for x86 systems.*Will later be used for the OS Development Course for my site*  
-- ⚡ **[FiveM OnyxAC](https://github.com/ceoofu/OnyxAC)** – FiveM AntiCheat.  
-- 🛡️ **[MultiTool – Advanced OSINT Cybersecurity Toolkit](https://github.com/ceoofu/MultiTool---Advanced-OSINT-Cybersecurity-Toolkit)** – a multi-purpose OSINT & cybersecurity toolkit.  
 
 ---
 
