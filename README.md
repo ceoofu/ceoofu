@@ -2,8 +2,8 @@
 <h3 align="center">Network Defender | Ethical Hacker | Full Stack Web Developer | Founder of OGDev Studios</h3>
 
 <p align="center">
-  <a href="https://guns.lol/ogdevstudios"><img src="https://komarev.com/ghpvc/?username=sheloveslqwid&label=Profile%20Views&color=6f42c1&style=flat" alt="Profile Views" /></a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheloveslqwid&theme=darkhub&margin-w=10&margin-h=10" alt="Trophies" /></a>
+  <a href="https://guns.lol/ogdevstudios"><img src="https://komarev.com/ghpvc/?username=ceoofu&label=Profile%20Views&color=6f42c1&style=flat" alt="Profile Views" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ceoofu&theme=darkhub&margin-w=10&margin-h=10" alt="Trophies" /></a>
 </p>
 
 ---
@@ -18,9 +18,9 @@ I’m the **Founder of OGDev Studios** — a cybersecurity company with two miss
 ---
 
 ## 🔭 Current Work
-- 🖥️ **[LumaOS x86 Kernel Project](https://github.com/SheLovesLqwid/LumaOS-x86-Educational-Kernel-Project)** – educational kernel project for x86 systems.*Will later be used for the OS Development Course for our site*  
-- ⚡ **[FiveM OnyxAC](https://github.com/SheLovesLqwid/OnyxAC)** – FiveM AntiCheat.  
-- 🛡️ **[MultiTool – Advanced OSINT Cybersecurity Toolkit](https://github.com/SheLovesLqwid/MultiTool---Advanced-OSINT-Cybersecurity-Toolkit)** – a multi-purpose OSINT & cybersecurity toolkit.  
+- 🖥️ **[LumaOS x86 Kernel Project](https://github.com/ceoofu/LumaOS-x86-Educational-Kernel-Project)** – educational kernel project for x86 systems.*Will later be used for the OS Development Course for our site*  
+- ⚡ **[FiveM OnyxAC](https://github.com/ceoofu/OnyxAC)** – FiveM AntiCheat.  
+- 🛡️ **[MultiTool – Advanced OSINT Cybersecurity Toolkit](https://github.com/ceoofu/MultiTool---Advanced-OSINT-Cybersecurity-Toolkit)** – a multi-purpose OSINT & cybersecurity toolkit.  
 
 ---
 
@@ -42,7 +42,7 @@ I’m the **Founder of OGDev Studios** — a cybersecurity company with two miss
   <a href="https://discord.gg/HPe63XzDGg" target="_blank">
     <img src="https://img.shields.io/badge/💬 Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://github.com/SheLovesLqwid" target="_blank">
+  <a href="https://github.com/ceoofu" target="_blank">
     <img src="https://img.shields.io/badge/🐙 GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -64,12 +64,12 @@ I’m the **Founder of OGDev Studios** — a cybersecurity company with two miss
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheloveslqwid&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheloveslqwid&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ceoofu&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ceoofu&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheloveslqwid&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceoofu&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
